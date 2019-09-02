@@ -17,6 +17,8 @@ NOTE - Must start 'pigpiod' daemon first:
   sudo pigpiod
 */
 
+// JJ - a comment to test with
+
 // options
 #define MINI_USE_CONSOLE 1
 
