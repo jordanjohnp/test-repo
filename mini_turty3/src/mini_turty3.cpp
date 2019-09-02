@@ -18,6 +18,7 @@ NOTE - Must start 'pigpiod' daemon first:
 */
 
 // JJ - a comment to test with
+// JJ - a second comment to test with
 
 // options
 #define MINI_USE_CONSOLE 1
